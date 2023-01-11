@@ -1,91 +1,91 @@
 | Name | Value | |
 | ---- | ----- | ------- |
-|`color-scale-white`|`#FFFFFF`|<img width="24" height="24" src="https://placehold.co/24x24/FFFFFF/FFFFFF">
-|`color-scale-black`|`#000000`|<img width="24" height="24" src="https://placehold.co/24x24/000000/000000">
-|`color-scale-alpha-0`|`rgba(0, 0, 0, 0)`|<img width="24" height="24" src="https://placehold.co/24x24/rgba(0, 0, 0, 0)/rgba(0, 0, 0, 0)">
-|`color-scale-alpha-10`|`rgba(0,0,0,0.1)`|<img width="24" height="24" src="https://placehold.co/24x24/rgba(0,0,0,0.1)/rgba(0,0,0,0.1)">
-|`color-scale-alpha-12`|`rgba(0,0,0,0.12)`|<img width="24" height="24" src="https://placehold.co/24x24/rgba(0,0,0,0.12)/rgba(0,0,0,0.12)">
-|`color-scale-alpha-02`|`rgba(0,0,0,0.02)`|<img width="24" height="24" src="https://placehold.co/24x24/rgba(0,0,0,0.02)/rgba(0,0,0,0.02)">
-|`color-scale-alpha-04`|`rgba(0,0,0,0.04)`|<img width="24" height="24" src="https://placehold.co/24x24/rgba(0,0,0,0.04)/rgba(0,0,0,0.04)">
-|`color-scale-alpha-06`|`rgba(0,0,0,0.06)`|<img width="24" height="24" src="https://placehold.co/24x24/rgba(0,0,0,0.06)/rgba(0,0,0,0.06)">
-|`color-scale-blue-100`|`#F2F8FD`|<img width="24" height="24" src="https://placehold.co/24x24/F2F8FD/F2F8FD">
-|`color-scale-blue-200`|`#CDE4F7`|<img width="24" height="24" src="https://placehold.co/24x24/CDE4F7/CDE4F7">
-|`color-scale-blue-300`|`#87BFEC`|<img width="24" height="24" src="https://placehold.co/24x24/87BFEC/87BFEC">
-|`color-scale-blue-400`|`#449BE1`|<img width="24" height="24" src="https://placehold.co/24x24/449BE1/449BE1">
-|`color-scale-blue-500`|`#1A77CA`|<img width="24" height="24" src="https://placehold.co/24x24/1A77CA/1A77CA">
-|`color-scale-blue-600`|`#155EA0`|<img width="24" height="24" src="https://placehold.co/24x24/155EA0/155EA0">
-|`color-scale-blue-700`|`#0F4778`|<img width="24" height="24" src="https://placehold.co/24x24/0F4778/0F4778">
-|`color-scale-blue-800`|`#093051`|<img width="24" height="24" src="https://placehold.co/24x24/093051/093051">
-|`color-scale-blue-900`|`#041A2D`|<img width="24" height="24" src="https://placehold.co/24x24/041A2D/041A2D">
-|`color-scale-green-100`|`#EEFAF5`|<img width="24" height="24" src="https://placehold.co/24x24/EEFAF5/EEFAF5">
-|`color-scale-green-200`|`#B8E7D3`|<img width="24" height="24" src="https://placehold.co/24x24/B8E7D3/B8E7D3">
-|`color-scale-green-300`|`#5ECD9E`|<img width="24" height="24" src="https://placehold.co/24x24/5ECD9E/5ECD9E">
-|`color-scale-green-400`|`#00AB62`|<img width="24" height="24" src="https://placehold.co/24x24/00AB62/00AB62">
-|`color-scale-green-500`|`#00874D`|<img width="24" height="24" src="https://placehold.co/24x24/00874D/00874D">
-|`color-scale-green-600`|`#006A3D`|<img width="24" height="24" src="https://placehold.co/24x24/006A3D/006A3D">
-|`color-scale-green-700`|`#00502E`|<img width="24" height="24" src="https://placehold.co/24x24/00502E/00502E">
-|`color-scale-green-800`|`#00361F`|<img width="24" height="24" src="https://placehold.co/24x24/00361F/00361F">
-|`color-scale-green-900`|`#001E11`|<img width="24" height="24" src="https://placehold.co/24x24/001E11/001E11">
-|`color-scale-purple-100`|`#F8F5FD`|<img width="24" height="24" src="https://placehold.co/24x24/F8F5FD/F8F5FD">
-|`color-scale-purple-200`|`#E7DEF8`|<img width="24" height="24" src="https://placehold.co/24x24/E7DEF8/E7DEF8">
-|`color-scale-purple-300`|`#C5AEEE`|<img width="24" height="24" src="https://placehold.co/24x24/C5AEEE/C5AEEE">
-|`color-scale-purple-400`|`#A683E5`|<img width="24" height="24" src="https://placehold.co/24x24/A683E5/A683E5">
-|`color-scale-purple-500`|`#895ED3`|<img width="24" height="24" src="https://placehold.co/24x24/895ED3/895ED3">
-|`color-scale-purple-600`|`#7043B7`|<img width="24" height="24" src="https://placehold.co/24x24/7043B7/7043B7">
-|`color-scale-purple-700`|`#572B97`|<img width="24" height="24" src="https://placehold.co/24x24/572B97/572B97">
-|`color-scale-purple-800`|`#3B1D66`|<img width="24" height="24" src="https://placehold.co/24x24/3B1D66/3B1D66">
-|`color-scale-purple-900`|`#21103A`|<img width="24" height="24" src="https://placehold.co/24x24/21103A/21103A">
-|`color-scale-orange-100`|`#FFF5ED`|<img width="24" height="24" src="https://placehold.co/24x24/FFF5ED/FFF5ED">
-|`color-scale-orange-200`|`#FFDABF`|<img width="24" height="24" src="https://placehold.co/24x24/FFDABF/FFDABF">
-|`color-scale-orange-300`|`#FFA461`|<img width="24" height="24" src="https://placehold.co/24x24/FFA461/FFA461">
-|`color-scale-orange-400`|`#EA7325`|<img width="24" height="24" src="https://placehold.co/24x24/EA7325/EA7325">
-|`color-scale-orange-500`|`#C45317`|<img width="24" height="24" src="https://placehold.co/24x24/C45317/C45317">
-|`color-scale-orange-600`|`#A13C14`|<img width="24" height="24" src="https://placehold.co/24x24/A13C14/A13C14">
-|`color-scale-orange-700`|`#7E2812`|<img width="24" height="24" src="https://placehold.co/24x24/7E2812/7E2812">
-|`color-scale-orange-800`|`#59170D`|<img width="24" height="24" src="https://placehold.co/24x24/59170D/59170D">
-|`color-scale-orange-900`|`#340B07`|<img width="24" height="24" src="https://placehold.co/24x24/340B07/340B07">
-|`color-scale-yellow-100`|`#FFF7D9`|<img width="24" height="24" src="https://placehold.co/24x24/FFF7D9/FFF7D9">
-|`color-scale-yellow-200`|`#FFDF62`|<img width="24" height="24" src="https://placehold.co/24x24/FFDF62/FFDF62">
-|`color-scale-yellow-300`|`#E5B203`|<img width="24" height="24" src="https://placehold.co/24x24/E5B203/E5B203">
-|`color-scale-yellow-400`|`#B98F02`|<img width="24" height="24" src="https://placehold.co/24x24/B98F02/B98F02">
-|`color-scale-yellow-500`|`#927002`|<img width="24" height="24" src="https://placehold.co/24x24/927002/927002">
-|`color-scale-yellow-600`|`#745801`|<img width="24" height="24" src="https://placehold.co/24x24/745801/745801">
-|`color-scale-yellow-700`|`#584201`|<img width="24" height="24" src="https://placehold.co/24x24/584201/584201">
-|`color-scale-yellow-800`|`#3B2C00`|<img width="24" height="24" src="https://placehold.co/24x24/3B2C00/3B2C00">
-|`color-scale-yellow-900`|`#201800`|<img width="24" height="24" src="https://placehold.co/24x24/201800/201800">
-|`color-scale-red-100`|`#FFF3F3`|<img width="24" height="24" src="https://placehold.co/24x24/FFF3F3/FFF3F3">
-|`color-scale-red-200`|`#FFD8D8`|<img width="24" height="24" src="https://placehold.co/24x24/FFD8D8/FFD8D8">
-|`color-scale-red-300`|`#FF9F9F`|<img width="24" height="24" src="https://placehold.co/24x24/FF9F9F/FF9F9F">
-|`color-scale-red-400`|`#FF5D5D`|<img width="24" height="24" src="https://placehold.co/24x24/FF5D5D/FF5D5D">
-|`color-scale-red-500`|`#D63D3D`|<img width="24" height="24" src="https://placehold.co/24x24/D63D3D/D63D3D">
-|`color-scale-red-600`|`#AA3030`|<img width="24" height="24" src="https://placehold.co/24x24/AA3030/AA3030">
-|`color-scale-red-700`|`#802424`|<img width="24" height="24" src="https://placehold.co/24x24/802424/802424">
-|`color-scale-red-800`|`#571818`|<img width="24" height="24" src="https://placehold.co/24x24/571818/571818">
-|`color-scale-red-900`|`#310E0E`|<img width="24" height="24" src="https://placehold.co/24x24/310E0E/310E0E">
-|`color-scale-navy-100`|`#f4f6f8`|<img width="24" height="24" src="https://placehold.co/24x24/f4f6f8/f4f6f8">
-|`color-scale-navy-200`|`#dae2e9`|<img width="24" height="24" src="https://placehold.co/24x24/dae2e9/dae2e9">
-|`color-scale-navy-300`|`#a9bbcb`|<img width="24" height="24" src="https://placehold.co/24x24/a9bbcb/a9bbcb">
-|`color-scale-navy-400`|`#7C98B4`|<img width="24" height="24" src="https://placehold.co/24x24/7C98B4/7C98B4">
-|`color-scale-navy-500`|`#557999`|<img width="24" height="24" src="https://placehold.co/24x24/557999/557999">
-|`color-scale-navy-600`|`#3e607d`|<img width="24" height="24" src="https://placehold.co/24x24/3e607d/3e607d">
-|`color-scale-navy-700`|`#2e475d`|<img width="24" height="24" src="https://placehold.co/24x24/2e475d/2e475d">
-|`color-scale-navy-800`|`#1f303f`|<img width="24" height="24" src="https://placehold.co/24x24/1f303f/1f303f">
-|`color-scale-navy-900`|`#111a23`|<img width="24" height="24" src="https://placehold.co/24x24/111a23/111a23">
-|`color-scale-slate-100`|`#f5f6f8`|<img width="24" height="24" src="https://placehold.co/24x24/f5f6f8/f5f6f8">
-|`color-scale-slate-200`|`#dee1e6`|<img width="24" height="24" src="https://placehold.co/24x24/dee1e6/dee1e6">
-|`color-scale-slate-300`|`#b2b9c5`|<img width="24" height="24" src="https://placehold.co/24x24/b2b9c5/b2b9c5">
-|`color-scale-slate-400`|`#8a96a7`|<img width="24" height="24" src="https://placehold.co/24x24/8a96a7/8a96a7">
-|`color-scale-slate-500`|`#68778d`|<img width="24" height="24" src="https://placehold.co/24x24/68778d/68778d">
-|`color-scale-slate-600`|`#515d70`|<img width="24" height="24" src="https://placehold.co/24x24/515d70/515d70">
-|`color-scale-slate-700`|`#3d4653`|<img width="24" height="24" src="https://placehold.co/24x24/3d4653/3d4653">
-|`color-scale-slate-800`|`#282f38`|<img width="24" height="24" src="https://placehold.co/24x24/282f38/282f38">
-|`color-scale-slate-900`|`#16191f`|<img width="24" height="24" src="https://placehold.co/24x24/16191f/16191f">
-|`color-scale-grey-100`|`#f7f7f7`|<img width="24" height="24" src="https://placehold.co/24x24/f7f7f7/f7f7f7">
-|`color-scale-grey-200`|`#e1e1e1`|<img width="24" height="24" src="https://placehold.co/24x24/e1e1e1/e1e1e1">
-|`color-scale-grey-300`|`#b9b9b9`|<img width="24" height="24" src="https://placehold.co/24x24/b9b9b9/b9b9b9">
-|`color-scale-grey-400`|`#959595`|<img width="24" height="24" src="https://placehold.co/24x24/959595/959595">
-|`color-scale-grey-500`|`#757575`|<img width="24" height="24" src="https://placehold.co/24x24/757575/757575">
-|`color-scale-grey-600`|`#5c5c5c`|<img width="24" height="24" src="https://placehold.co/24x24/5c5c5c/5c5c5c">
-|`color-scale-grey-700`|`#454545`|<img width="24" height="24" src="https://placehold.co/24x24/454545/454545">
-|`color-scale-grey-800`|`#2e2e2e`|<img width="24" height="24" src="https://placehold.co/24x24/2e2e2e/2e2e2e">
-|`color-scale-grey-900`|`#191919`|<img width="24" height="24" src="https://placehold.co/24x24/191919/191919">
+|`color-scale-white`|`#FFFFFF`|<img width="24" height="24" src="https://placehold.co/24x24/FFFFFF/FFFFFF" align="center" />
+|`color-scale-black`|`#000000`|<img width="24" height="24" src="https://placehold.co/24x24/000000/000000" align="center" />
+|`color-scale-alpha-0`|`rgba(0, 0, 0, 0)`|<img width="24" height="24" src="https://placehold.co/24x24/rgba(0, 0, 0, 0)/rgba(0, 0, 0, 0)" align="center" />
+|`color-scale-alpha-10`|`rgba(0,0,0,0.1)`|<img width="24" height="24" src="https://placehold.co/24x24/rgba(0,0,0,0.1)/rgba(0,0,0,0.1)" align="center" />
+|`color-scale-alpha-12`|`rgba(0,0,0,0.12)`|<img width="24" height="24" src="https://placehold.co/24x24/rgba(0,0,0,0.12)/rgba(0,0,0,0.12)" align="center" />
+|`color-scale-alpha-02`|`rgba(0,0,0,0.02)`|<img width="24" height="24" src="https://placehold.co/24x24/rgba(0,0,0,0.02)/rgba(0,0,0,0.02)" align="center" />
+|`color-scale-alpha-04`|`rgba(0,0,0,0.04)`|<img width="24" height="24" src="https://placehold.co/24x24/rgba(0,0,0,0.04)/rgba(0,0,0,0.04)" align="center" />
+|`color-scale-alpha-06`|`rgba(0,0,0,0.06)`|<img width="24" height="24" src="https://placehold.co/24x24/rgba(0,0,0,0.06)/rgba(0,0,0,0.06)" align="center" />
+|`color-scale-blue-100`|`#F2F8FD`|<img width="24" height="24" src="https://placehold.co/24x24/F2F8FD/F2F8FD" align="center" />
+|`color-scale-blue-200`|`#CDE4F7`|<img width="24" height="24" src="https://placehold.co/24x24/CDE4F7/CDE4F7" align="center" />
+|`color-scale-blue-300`|`#87BFEC`|<img width="24" height="24" src="https://placehold.co/24x24/87BFEC/87BFEC" align="center" />
+|`color-scale-blue-400`|`#449BE1`|<img width="24" height="24" src="https://placehold.co/24x24/449BE1/449BE1" align="center" />
+|`color-scale-blue-500`|`#1A77CA`|<img width="24" height="24" src="https://placehold.co/24x24/1A77CA/1A77CA" align="center" />
+|`color-scale-blue-600`|`#155EA0`|<img width="24" height="24" src="https://placehold.co/24x24/155EA0/155EA0" align="center" />
+|`color-scale-blue-700`|`#0F4778`|<img width="24" height="24" src="https://placehold.co/24x24/0F4778/0F4778" align="center" />
+|`color-scale-blue-800`|`#093051`|<img width="24" height="24" src="https://placehold.co/24x24/093051/093051" align="center" />
+|`color-scale-blue-900`|`#041A2D`|<img width="24" height="24" src="https://placehold.co/24x24/041A2D/041A2D" align="center" />
+|`color-scale-green-100`|`#EEFAF5`|<img width="24" height="24" src="https://placehold.co/24x24/EEFAF5/EEFAF5" align="center" />
+|`color-scale-green-200`|`#B8E7D3`|<img width="24" height="24" src="https://placehold.co/24x24/B8E7D3/B8E7D3" align="center" />
+|`color-scale-green-300`|`#5ECD9E`|<img width="24" height="24" src="https://placehold.co/24x24/5ECD9E/5ECD9E" align="center" />
+|`color-scale-green-400`|`#00AB62`|<img width="24" height="24" src="https://placehold.co/24x24/00AB62/00AB62" align="center" />
+|`color-scale-green-500`|`#00874D`|<img width="24" height="24" src="https://placehold.co/24x24/00874D/00874D" align="center" />
+|`color-scale-green-600`|`#006A3D`|<img width="24" height="24" src="https://placehold.co/24x24/006A3D/006A3D" align="center" />
+|`color-scale-green-700`|`#00502E`|<img width="24" height="24" src="https://placehold.co/24x24/00502E/00502E" align="center" />
+|`color-scale-green-800`|`#00361F`|<img width="24" height="24" src="https://placehold.co/24x24/00361F/00361F" align="center" />
+|`color-scale-green-900`|`#001E11`|<img width="24" height="24" src="https://placehold.co/24x24/001E11/001E11" align="center" />
+|`color-scale-purple-100`|`#F8F5FD`|<img width="24" height="24" src="https://placehold.co/24x24/F8F5FD/F8F5FD" align="center" />
+|`color-scale-purple-200`|`#E7DEF8`|<img width="24" height="24" src="https://placehold.co/24x24/E7DEF8/E7DEF8" align="center" />
+|`color-scale-purple-300`|`#C5AEEE`|<img width="24" height="24" src="https://placehold.co/24x24/C5AEEE/C5AEEE" align="center" />
+|`color-scale-purple-400`|`#A683E5`|<img width="24" height="24" src="https://placehold.co/24x24/A683E5/A683E5" align="center" />
+|`color-scale-purple-500`|`#895ED3`|<img width="24" height="24" src="https://placehold.co/24x24/895ED3/895ED3" align="center" />
+|`color-scale-purple-600`|`#7043B7`|<img width="24" height="24" src="https://placehold.co/24x24/7043B7/7043B7" align="center" />
+|`color-scale-purple-700`|`#572B97`|<img width="24" height="24" src="https://placehold.co/24x24/572B97/572B97" align="center" />
+|`color-scale-purple-800`|`#3B1D66`|<img width="24" height="24" src="https://placehold.co/24x24/3B1D66/3B1D66" align="center" />
+|`color-scale-purple-900`|`#21103A`|<img width="24" height="24" src="https://placehold.co/24x24/21103A/21103A" align="center" />
+|`color-scale-orange-100`|`#FFF5ED`|<img width="24" height="24" src="https://placehold.co/24x24/FFF5ED/FFF5ED" align="center" />
+|`color-scale-orange-200`|`#FFDABF`|<img width="24" height="24" src="https://placehold.co/24x24/FFDABF/FFDABF" align="center" />
+|`color-scale-orange-300`|`#FFA461`|<img width="24" height="24" src="https://placehold.co/24x24/FFA461/FFA461" align="center" />
+|`color-scale-orange-400`|`#EA7325`|<img width="24" height="24" src="https://placehold.co/24x24/EA7325/EA7325" align="center" />
+|`color-scale-orange-500`|`#C45317`|<img width="24" height="24" src="https://placehold.co/24x24/C45317/C45317" align="center" />
+|`color-scale-orange-600`|`#A13C14`|<img width="24" height="24" src="https://placehold.co/24x24/A13C14/A13C14" align="center" />
+|`color-scale-orange-700`|`#7E2812`|<img width="24" height="24" src="https://placehold.co/24x24/7E2812/7E2812" align="center" />
+|`color-scale-orange-800`|`#59170D`|<img width="24" height="24" src="https://placehold.co/24x24/59170D/59170D" align="center" />
+|`color-scale-orange-900`|`#340B07`|<img width="24" height="24" src="https://placehold.co/24x24/340B07/340B07" align="center" />
+|`color-scale-yellow-100`|`#FFF7D9`|<img width="24" height="24" src="https://placehold.co/24x24/FFF7D9/FFF7D9" align="center" />
+|`color-scale-yellow-200`|`#FFDF62`|<img width="24" height="24" src="https://placehold.co/24x24/FFDF62/FFDF62" align="center" />
+|`color-scale-yellow-300`|`#E5B203`|<img width="24" height="24" src="https://placehold.co/24x24/E5B203/E5B203" align="center" />
+|`color-scale-yellow-400`|`#B98F02`|<img width="24" height="24" src="https://placehold.co/24x24/B98F02/B98F02" align="center" />
+|`color-scale-yellow-500`|`#927002`|<img width="24" height="24" src="https://placehold.co/24x24/927002/927002" align="center" />
+|`color-scale-yellow-600`|`#745801`|<img width="24" height="24" src="https://placehold.co/24x24/745801/745801" align="center" />
+|`color-scale-yellow-700`|`#584201`|<img width="24" height="24" src="https://placehold.co/24x24/584201/584201" align="center" />
+|`color-scale-yellow-800`|`#3B2C00`|<img width="24" height="24" src="https://placehold.co/24x24/3B2C00/3B2C00" align="center" />
+|`color-scale-yellow-900`|`#201800`|<img width="24" height="24" src="https://placehold.co/24x24/201800/201800" align="center" />
+|`color-scale-red-100`|`#FFF3F3`|<img width="24" height="24" src="https://placehold.co/24x24/FFF3F3/FFF3F3" align="center" />
+|`color-scale-red-200`|`#FFD8D8`|<img width="24" height="24" src="https://placehold.co/24x24/FFD8D8/FFD8D8" align="center" />
+|`color-scale-red-300`|`#FF9F9F`|<img width="24" height="24" src="https://placehold.co/24x24/FF9F9F/FF9F9F" align="center" />
+|`color-scale-red-400`|`#FF5D5D`|<img width="24" height="24" src="https://placehold.co/24x24/FF5D5D/FF5D5D" align="center" />
+|`color-scale-red-500`|`#D63D3D`|<img width="24" height="24" src="https://placehold.co/24x24/D63D3D/D63D3D" align="center" />
+|`color-scale-red-600`|`#AA3030`|<img width="24" height="24" src="https://placehold.co/24x24/AA3030/AA3030" align="center" />
+|`color-scale-red-700`|`#802424`|<img width="24" height="24" src="https://placehold.co/24x24/802424/802424" align="center" />
+|`color-scale-red-800`|`#571818`|<img width="24" height="24" src="https://placehold.co/24x24/571818/571818" align="center" />
+|`color-scale-red-900`|`#310E0E`|<img width="24" height="24" src="https://placehold.co/24x24/310E0E/310E0E" align="center" />
+|`color-scale-navy-100`|`#f4f6f8`|<img width="24" height="24" src="https://placehold.co/24x24/f4f6f8/f4f6f8" align="center" />
+|`color-scale-navy-200`|`#dae2e9`|<img width="24" height="24" src="https://placehold.co/24x24/dae2e9/dae2e9" align="center" />
+|`color-scale-navy-300`|`#a9bbcb`|<img width="24" height="24" src="https://placehold.co/24x24/a9bbcb/a9bbcb" align="center" />
+|`color-scale-navy-400`|`#7C98B4`|<img width="24" height="24" src="https://placehold.co/24x24/7C98B4/7C98B4" align="center" />
+|`color-scale-navy-500`|`#557999`|<img width="24" height="24" src="https://placehold.co/24x24/557999/557999" align="center" />
+|`color-scale-navy-600`|`#3e607d`|<img width="24" height="24" src="https://placehold.co/24x24/3e607d/3e607d" align="center" />
+|`color-scale-navy-700`|`#2e475d`|<img width="24" height="24" src="https://placehold.co/24x24/2e475d/2e475d" align="center" />
+|`color-scale-navy-800`|`#1f303f`|<img width="24" height="24" src="https://placehold.co/24x24/1f303f/1f303f" align="center" />
+|`color-scale-navy-900`|`#111a23`|<img width="24" height="24" src="https://placehold.co/24x24/111a23/111a23" align="center" />
+|`color-scale-slate-100`|`#f5f6f8`|<img width="24" height="24" src="https://placehold.co/24x24/f5f6f8/f5f6f8" align="center" />
+|`color-scale-slate-200`|`#dee1e6`|<img width="24" height="24" src="https://placehold.co/24x24/dee1e6/dee1e6" align="center" />
+|`color-scale-slate-300`|`#b2b9c5`|<img width="24" height="24" src="https://placehold.co/24x24/b2b9c5/b2b9c5" align="center" />
+|`color-scale-slate-400`|`#8a96a7`|<img width="24" height="24" src="https://placehold.co/24x24/8a96a7/8a96a7" align="center" />
+|`color-scale-slate-500`|`#68778d`|<img width="24" height="24" src="https://placehold.co/24x24/68778d/68778d" align="center" />
+|`color-scale-slate-600`|`#515d70`|<img width="24" height="24" src="https://placehold.co/24x24/515d70/515d70" align="center" />
+|`color-scale-slate-700`|`#3d4653`|<img width="24" height="24" src="https://placehold.co/24x24/3d4653/3d4653" align="center" />
+|`color-scale-slate-800`|`#282f38`|<img width="24" height="24" src="https://placehold.co/24x24/282f38/282f38" align="center" />
+|`color-scale-slate-900`|`#16191f`|<img width="24" height="24" src="https://placehold.co/24x24/16191f/16191f" align="center" />
+|`color-scale-grey-100`|`#f7f7f7`|<img width="24" height="24" src="https://placehold.co/24x24/f7f7f7/f7f7f7" align="center" />
+|`color-scale-grey-200`|`#e1e1e1`|<img width="24" height="24" src="https://placehold.co/24x24/e1e1e1/e1e1e1" align="center" />
+|`color-scale-grey-300`|`#b9b9b9`|<img width="24" height="24" src="https://placehold.co/24x24/b9b9b9/b9b9b9" align="center" />
+|`color-scale-grey-400`|`#959595`|<img width="24" height="24" src="https://placehold.co/24x24/959595/959595" align="center" />
+|`color-scale-grey-500`|`#757575`|<img width="24" height="24" src="https://placehold.co/24x24/757575/757575" align="center" />
+|`color-scale-grey-600`|`#5c5c5c`|<img width="24" height="24" src="https://placehold.co/24x24/5c5c5c/5c5c5c" align="center" />
+|`color-scale-grey-700`|`#454545`|<img width="24" height="24" src="https://placehold.co/24x24/454545/454545" align="center" />
+|`color-scale-grey-800`|`#2e2e2e`|<img width="24" height="24" src="https://placehold.co/24x24/2e2e2e/2e2e2e" align="center" />
+|`color-scale-grey-900`|`#191919`|<img width="24" height="24" src="https://placehold.co/24x24/191919/191919" align="center" />
