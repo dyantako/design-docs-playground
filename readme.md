@@ -1,7 +1,7 @@
 | Name | Value | Preview |
 | ---- | ----- | ------- |
-|`color-scale-white`|`#FFFFFF`|<img width="15" height="15" src="https://placehold.co/30x30/FFFFFF/FFFFFF">|
-|`color-scale-black`|`#000000`|<img width="15" height="15" src="https://placehold.co/30x30/000000/000000">|
+|`color-scale-white`|`#FFFFFF`|<img width="15" height="15" src="https://placehold.co/30x30/FFFFFF/FFFFFF">
+|`color-scale-black`|`#000000`|<img width="15" height="15" src="https://placehold.co/30x30/000000/000000">
 |`color-scale-alpha-0`|`rgba(0, 0, 0, 0)`|<img width="15" height="15" src="https://placehold.co/30x30/rgba(0, 0, 0, 0)/rgba(0, 0, 0, 0)">|
 |`color-scale-alpha-10`|`rgba(0,0,0,0.1)`|<img width="15" height="15" src="https://placehold.co/30x30/rgba(0,0,0,0.1)/rgba(0,0,0,0.1)">|
 |`color-scale-alpha-12`|`rgba(0,0,0,0.12)`|<img width="15" height="15" src="https://placehold.co/30x30/rgba(0,0,0,0.12)/rgba(0,0,0,0.12)">|
