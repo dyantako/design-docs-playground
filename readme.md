@@ -1,4 +1,4 @@
-| Name | Value | Preview |
+| Name | Value | |
 | ---- | ----- | ------- |
 |`color-scale-white`|`#FFFFFF`|<img width="24" height="24" src="https://placehold.co/24x24/FFFFFF/FFFFFF">
 |`color-scale-black`|`#000000`|<img width="24" height="24" src="https://placehold.co/24x24/000000/000000">
