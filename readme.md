@@ -1,6 +1,13 @@
 ## Heading 2
 
-| Token | Value | Preview | 
+| Token | Value |  | 
 | ----- | ----- | ------- |
-| `black` | `#000000` | ![](https://raw.githubusercontent.com/dyantako/design-docs-playground/main/ff0000.svg)  |
-| `red` | `#f03c15` | ![](https://placehold.co/30x5/f03c15/f03c15/svg)  |
+| `black` | `#000000` | <img width="15" height="15" src="/ff0000.svg">  |
+| `black` | `#000000` | <img width="15" height="15" src="https://raw.githubusercontent.com/dyantako/design-docs-playground/main/ff0000.svg">  |
+| `black` | `#000000` | <img width="15" height="15" src="https://raw.githubusercontent.com/dyantako/design-docs-playground/main/ff0000.svg">  |
+| `black` | `#000000` | <img width="15" height="15" src="https://raw.githubusercontent.com/dyantako/design-docs-playground/main/ff0000.svg">  |
+| `black` | `#000000` | <img width="15" height="15" src="https://raw.githubusercontent.com/dyantako/design-docs-playground/main/ff0000.svg">  |
+| `black` | `#000000` | <img width="15" height="15" src="https://raw.githubusercontent.com/dyantako/design-docs-playground/main/ff0000.svg">  |
+| `black` | `#000000` | <img width="15" height="15" src="https://raw.githubusercontent.com/dyantako/design-docs-playground/main/ff0000.svg">  |
+| `black` | `#000000` | <img width="15" height="15" src="https://raw.githubusercontent.com/dyantako/design-docs-playground/main/ff0000.svg">  |
+| `black` | `#000000` | <img width="15" height="15" src="https://raw.githubusercontent.com/dyantako/design-docs-playground/main/ff0000.svg">  |
